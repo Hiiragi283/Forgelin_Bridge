@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "A Minecraft mod to disguise Forgelin Continuous as Shadowfact's Forgelin.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": [
+      "Hiiragi283"
+    ],
+    "credits": "",
+    "dependencies": []
+  }
+]
